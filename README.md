@@ -3,6 +3,8 @@
 This repository is for usage test for the
 [uv package manager](https://github.com/astral-sh/uv).
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=846451892&ref=main&devcontainer_path=.devcontainer%2Fdevcontainer.json&geo=SoutheastAsia)
+
 ## Creating a new project
 
 In the project working direcoty, run the following command:
