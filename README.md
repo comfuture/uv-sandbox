@@ -46,7 +46,7 @@ Also, you can activate the virtualenv by running the following command:
 > activate .venv/bin/activate
 ```
 
-If you are using pyenv and pyenv-virtualenv, please do not create
+<!> If you are using pyenv and pyenv-virtualenv, please DO NOT create
 `.python-version` file in the project directory. It will cause an error.
 
 There are some shell scripts that helps you to activate the virtualenv when you
