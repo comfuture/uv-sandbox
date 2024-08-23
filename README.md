@@ -45,7 +45,7 @@ automatically use the virtualenv.
 Also, you can activate the virtualenv by running the following command:
 
 ```bash
-> activate .venv/bin/activate
+> source .venv/bin/activate
 ```
 
 <!> If you are using pyenv and pyenv-virtualenv, please DO NOT create
